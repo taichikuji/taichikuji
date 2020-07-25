@@ -4,28 +4,28 @@ I'm a student and SysAdmin who enjoys coding and learning new things!
 ## Languages and tech I know 💻
 <dl>
     <dt>Scripting:
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/python.svg" /> Python</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/ansible.svg" /> Ansible</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/powershell.svg" /> Powershell</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/bash.svg" /> Bash</dd>
+        <dd><a href="https://www.python.org/"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/python.svg" /></a> Python</dd>
+        <dd><a href="https://www.ansible.com"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/ansible.svg" /></a> Ansible</dd>
+        <dd><a href="https://docs.microsoft.com/en-us/powershell/"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/powershell.svg" /></a> Powershell</dd>
+        <dd><a href="https://www.gnu.org/software/bash/"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/bash.svg" /></a> Bash</dd>
     </dt>
     <dt>Frontend:
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/html.svg" /> HTML</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/css.svg" /> CSS</dd>
+        <dd><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/html.svg" /></a> HTML</dd>
+        <dd><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/css.svg" /></a> CSS</dd>
     </dt>
     <dt>Backend:
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/js.svg" /> JavaScript</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/php.svg" /> PHP</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/java.svg" /> Java</dd>
+        <dd><a href="https://www.javascript.com"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/js.svg" /></a> JavaScript</dd>
+        <dd><a href="https://www.php.net/"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/php.svg" /></a> PHP</dd>
+        <dd><a href="https://www.java.com/"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/java.svg" /></a> Java</dd>
     </dt>
     <dt>Adobe Suit:
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/photoshop.svg" /> Photoshop</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/illustrator.svg" /> Illustrator</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/lightroom.svg" /> Lightroom</dd>
+        <dd><a href="https://www.adobe.com/products/photoshop.html"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/photoshop.svg" /></a> Photoshop</dd>
+        <dd><a href="https://www.adobe.com/products/illustrator.html"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/illustrator.svg" /></a> Illustrator</dd>
+        <dd><a href="https://www.adobe.com/products/photoshop-lightroom.html"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/lightroom.svg" /></a> Lightroom</dd>
     </dt>
     <dt>Others:
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/docker.svg" /> Docker</dd>
-        <dd><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/sql.svg" /> SQL</dd>
+        <dd><a href="https://www.docker.com/"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/docker.svg" /></a> Docker</dd>
+        <dd><a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img height="25" src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/sql.svg" /></a> SQL</dd>
     </dt>
 </dl>
 
