@@ -33,7 +33,7 @@ I'm a student and SysAdmin who enjoys coding and learning new things!
 ### Projects
 - 🐍 [Miia-Py](https://github.com/taichikuji/Miia-Py), a Discord bot <u>built entirely in Python</u>. Currently my main project.
 - 🖥️ [Youtube Ads 4 Adaway](https://github.com/taichikuji/youtube-ads-4-adaway), simple script that creates a modified version of *[Youtube Ad 4 Pihole](https://github.com/kboghdady/youTube_ads_4_pi-hole/)* to be compatible with Adaway and other similar applications. <u>Built in Powershell</u>.
-- 🌐 [Discord Introduction Template](https://github.com/taichikuji/template-discord-introduction), a simple <u>static</u> website template for anyone to use and self host that shows a discord profile and has a simple but effective way of adding the user. <u>Built using HTML, CSS and JavaScript.</u>
+- 🌐 [Discord Introduction Template](https://github.com/taichikuji/template-discord-introduction), a simple <u>static</u> website for anyone to use that shows a discord profile based on the Discord ID, and updates based on the Discord API. <u>Built using HTML, CSS and JavaScript.</u>
 - 🌟 [UScripts](https://github.com/taichikuji/UScripts), collection of scripts and tools that I use and / or created for my daily life. <u>Has a combination of Shell, Powershell, CMD ( will have Ansible soon as well )</u>.
 
 ### Stats
