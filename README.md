@@ -56,7 +56,7 @@ I'm a student and SysAdmin who enjoys coding and learning new things!
 
 - 🐍 [Miia-Py](https://github.com/taichikuji/Miia-Py), a Discord bot <u>built entirely in Python</u>. Currently my main project.
 - 🖥️ [Youtube Ads 4 Adaway](https://github.com/taichikuji/youtube-ads-4-adaway), simple script that creates a modified version of _[Youtube Ad 4 Pihole](https://github.com/kboghdady/youTube_ads_4_pi-hole/)_ to be compatible with Adaway and other similar applications. <u>Built in Powershell</u>.
-- 🌐 [Discord Introduction Template](https://github.com/taichikuji/template-discord-introduction), a simple <u>static</u> website for anyone to use that shows a discord profile based on the Discord ID, and updates based on the Discord API. <u>Built using HTML, CSS and JavaScript.</u>
+- 🌐 [DiscordID](https://github.com/taichikuji/discordid), a simple <u>static</u> website for anyone to use that shows a discord profile based on the Discord ID, and updates based on the Discord API. <u>Built using HTML, CSS and JavaScript.</u>
 - 🌟 [UScripts](https://github.com/taichikuji/UScripts), collection of scripts and tools that I use and / or created for my daily life. <u>Has a combination of Shell, Powershell, CMD ( will have Ansible soon as well )</u>.
 
 ---
@@ -66,12 +66,16 @@ I'm a student and SysAdmin who enjoys coding and learning new things!
 
 [![Taichi Stats](https://github-readme-stats.vercel.app/api?username=Taichikuji&&show_svgns=true)](https://github.com/taichikuji)
 
+[![Taichi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taichikuji&layout=compact)](https://github.com/taichikuji)
+
 </details>
 
 <details>
     <summary>⚡ Connect with me</summary>
 
-- Linkedin: [@Iván Pérez Fernández](https://www.linkedin.com/in/iperezfernandez/)
-- Discord: [@Taichikuji](https://taichikuji.netlify.app/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iperezfernandez/)
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordid.netlify.app/discord)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taichikuji)
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/taichikuji)
 
 </details>
