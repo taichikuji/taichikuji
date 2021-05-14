@@ -57,7 +57,7 @@ I'm a student and SysAdmin who enjoys coding and learning new things!
 - 🐍 [Miia-Py](https://github.com/taichikuji/Miia-Py), a Discord bot <u>built entirely in Python</u>. Currently my main project.
 - 🖥️ [Youtube Ads 4 Adaway](https://github.com/taichikuji/youtube-ads-4-adaway), simple script that creates a modified version of _[Youtube Ad 4 Pihole](https://github.com/kboghdady/youTube_ads_4_pi-hole/)_ to be compatible with Adaway and other similar applications. <u>Built in Powershell</u>.
 - 🌐 [DiscordID](https://github.com/taichikuji/discordid), a simple <u>static</u> website for anyone to use that shows a discord profile based on the Discord ID, and updates based on the Discord API. <u>Built using HTML, CSS and JavaScript.</u>
-- 🌟 [UScripts](https://github.com/taichikuji/UScripts), collection of scripts and tools that I use and / or created for my daily life. <u>Has a combination of Shell, Powershell, CMD ( will have Ansible soon as well )</u>.
+- 👍 [AniLiker](https://github.com/taichikuji/AniLiker), A Python script that cycles through a profile, liking everything on it's way! <u>Uses AniList's API (GraphQL). Built in Python.</u>
 
 ---
 
