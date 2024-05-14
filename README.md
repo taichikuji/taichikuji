@@ -1,63 +1,62 @@
 # 🐍 Iván Pérez Fernández 🌐
 
-I'm a student and SysAdmin who enjoys coding and learning new things!
+I am a Cloud Engineer, Networking specialist and SysAdmin!
 
 ---
 
-## Languages and tech I know 💻
+## Languages and tech I am in love with 💻
 
 <dl>
     <dt>Scripting:
-    <dd><a href="https://www.python.org/"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/python.svg" /></a>
-        <a href="https://www.ansible.com"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/ansible.svg" /></a>
-        <a href="https://docs.microsoft.com/en-us/powershell/"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/powershell.svg" /></a>
-        <a href="https://www.gnu.org/software/bash/"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/bash.svg" /></a>
+    <dd><a href="https://www.python.org/"><img height="25" src="db/python.svg" /></a>
+        <a href="https://www.ansible.com"><img height="25" src="db/ansible.svg" /></a>
+        <a href="https://docs.microsoft.com/en-us/powershell/"><img height="25" src="db/powershell.svg" /></a>
+        <a href="https://www.gnu.org/software/bash/"><img height="25" src="db/bash.svg" /></a>
+        <a href="https://www.terraform.io/"><img height="25" src="db/terraform.svg" /></a>
+    </dd>
+    </dt>
+    <dt>Google Cloud Platform Suite:
+    <dd><a href="https://cloud.google.com/anthos"><img height="25" src="db/anthos.svg" /></a>
+        <a href="https://cloud.google.com/vpc"><img height="25" src="db/virtual_private_cloud.svg" /></a>
+        <a href="https://cloud.google.com/armor"><img height="25" src="db/cloud_armor.svg" /></a>
+        <a href="https://cloud.google.com/dns"><img height="25" src="db/cloud_dns.svg" /></a>
+        <a href="https://cloud.google.com/logging"><img height="25" src="db/cloud_logging.svg" /></a>
+        <a href="https://cloud.google.com/kubernetes-engine"><img height="25" src="db/google_kubernetes_engine.svg" /></a>
+        <a href="https://cloud.google.com/vmware-engine"><img height="25" src="db/vmware_engine.svg" /></a>
+        <a href="https://cloud.google.com/appengine"><img height="25" src="db/app_engine.svg" /></a>
     </dd>
     </dt>
     <dt>Frontend:
-    <dd><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/html.svg" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/css.svg" /></a></dd>
+    <dd><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="25" src="db/html.svg" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="25" src="db/css.svg" /></a></dd>
     </dt>
     <dt>Backend:
-    <dd><a href="https://www.javascript.com"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/js.svg" /></a>
-        <a href="https://www.php.net/"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/php.svg" /></a>
-        <a href="https://www.java.com/"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/java.svg" /></a></dd>
-    </dt>
-    <dt>Adobe Suit:
-    <dd><a href="https://www.adobe.com/products/photoshop.html"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/photoshop.svg" /></a>
-        <a href="https://www.adobe.com/products/illustrator.html"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/illustrator.svg" /></a>
-        <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/lightroom.svg" /></a></dd>
+    <dd><a href="https://www.javascript.com"><img height="25" src="db/js.svg" /></a>
+        <a href="https://www.php.net/"><img height="25" src="db/php.svg" /></a>
+        <a href="https://www.java.com/"><img height="25" src="db/java.svg" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img height="25" src="db/sql.svg" /></a></dd>
     </dt>
     <dt>Others:
-    <dd><a href="https://www.docker.com/"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/docker.svg" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img height="25"
-                src="https://raw.githubusercontent.com/taichikuji/taichikuji/master/db/sql.svg" /></a></dd>
+    <dd><a href="https://www.docker.com/"><img height="25" src="db/docker.svg" /></a>
+        <a href="https://www.cloudflare.com/"><img height="25" src="db/cloudflare.svg" /></a>
+        <a href="https://www.paloaltonetworks.com/"><img height="25" src="db/palo_alto_networks.svg" /></a>
+        <a href="https://www.netlify.com/"><img height="25" src="db/netlify.svg" /></a>
+    </dd>
     </dt>
 </dl>
 
+
 ---
 
-## I’m currently working on 💻
+## I’m most proud of 💻
 
 ### Projects
 
-- 🐍 [Miia-Py](https://github.com/taichikuji/Miia-Py), a Discord bot <u>built entirely in Python</u>. Has been archived because Discord.py has been discontinued.
-- 🖥️ [Youtube Ads 4 Adaway](https://github.com/taichikuji/youtube-ads-4-adaway), simple script that creates a modified version of _[Youtube Ad 4 Pihole](https://github.com/kboghdady/youTube_ads_4_pi-hole/)_ to be compatible with Adaway and other similar applications. <u>Built in Powershell</u>.
-- 🌐 [DiscordID](https://github.com/taichikuji/discordid), a simple <u>static</u> website for anyone to use that shows a discord profile based on the Discord ID, and updates based on the Discord API. <u>Built using HTML, CSS and JavaScript.</u>
-- 👍 [AniLiker](https://github.com/taichikuji/AniLiker), A Python script that cycles through a profile, liking everything on it's way! <u>Uses AniList's API (GraphQL). Built in Python.</u>
+- 🐍 [Miia-Py](https://github.com/taichikuji/Miia-Py), a Discord bot <u>built entirely in Python</u> using Discord.py . Has been archived due to Discord.py change in policies.
+- 🖥️ [Youtube Ads 4 Adaway](https://github.com/taichikuji/youtube-ads-4-adaway), automated system that pulls from various sources and compiles them to be compatible with Adaway and other similar applications. <u>Built in Powershell, Bash and Python</u> for compatibility among multiple platforms.
+- 🌐 [DiscordID](https://github.com/taichikuji/discordid), complete dynamic website that allows you to share and let people add your Discord profile as friends. <u>Built using Netlify and Node.js</u>
+- 👍 [AniLiker](https://github.com/taichikuji/AniLiker), <u>Python script that uses GraphQL</u> to cycle through AniList's profiles of selection, liking everything on it's way!
+- 📦 [BRWP](https://github.com/taichikuji/BRWP), A simple to set up <u>Bash script</u> that uses webhooks to cycle through Reddit posts to then post them on any webhook-compatible architecture, like Discord or Google Chat groups.
 
 ---
 
@@ -75,7 +74,7 @@ I'm a student and SysAdmin who enjoys coding and learning new things!
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iperezfernandez/)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordid.netlify.app/discord)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taichikuji)
+[![Twitter](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Taichums)
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/taichikuji)
 
 </details>
