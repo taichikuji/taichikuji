@@ -52,11 +52,12 @@ I am a Cloud Engineer, Networking specialist and SysAdmin!
 
 ### Projects
 
-- 🐍 [Miia-Py](https://github.com/taichikuji/Miia-Py), a Discord bot <u>built entirely in Python</u> using Discord.py . Has been archived due to Discord.py change in policies.
+- 🐍 [Ui-Py](https://github.com/taichikuji/Ui-Py), a Discord bot <u>rebuilt</u> using Discord.py v2. A direct in-place replacement for Miia-Py!
 - 🖥️ [Youtube Ads 4 Adaway](https://github.com/taichikuji/youtube-ads-4-adaway), automated system that pulls from various sources and compiles them to be compatible with Adaway and other similar applications. <u>Built in Powershell, Bash and Python</u> for compatibility among multiple platforms.
 - 🌐 [DiscordID](https://github.com/taichikuji/discordid), complete dynamic website that allows you to share and let people add your Discord profile as friends. <u>Built using Netlify and Node.js</u>
 - 👍 [AniLiker](https://github.com/taichikuji/AniLiker), <u>Python script that uses GraphQL</u> to cycle through AniList's profiles of selection, liking everything on it's way!
-- 📦 [BRWP](https://github.com/taichikuji/BRWP), A simple to set up <u>Bash script</u> that uses webhooks to cycle through Reddit posts to then post them on any webhook-compatible architecture, like Discord or Google Chat groups.
+- 🔋 [UPSLite BAT Plugin](https://github.com/taichikuji/UPSLite-BAT-Plugin), A simple to set up <u>Battery Plugin</u> for the Raspberry PI zero to be used within Pwnagotchi Operative System!
+- 📋 [Simplemenu](https://github.com/taichikuji/simplemenu), Simplemenu is a project that replaces the default launcher for the multiple single-board devices that support it, including but not limited to, the Powkiddy v90! Written in C + Shell
 
 ---
 
