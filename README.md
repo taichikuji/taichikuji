@@ -64,9 +64,7 @@ I am a Cloud Engineer, Networking specialist and SysAdmin!
 <details>
     <summary>⚡ Stats</summary>
 
-[![Taichi Stats](https://github-readme-stats.vercel.app/api?username=Taichikuji&&show_svgns=true)](https://github.com/taichikuji)
-
-[![Taichi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taichikuji&layout=compact)](https://github.com/taichikuji)
+[![Taichi Stats](https://githubcard.com/taichikuji.svg?d=ILDtbMvf)](https://github.com/taichikuji)
 
 </details>
 
