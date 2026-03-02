@@ -53,10 +53,10 @@ I am a Cloud Engineer, Networking specialist and SysAdmin!
 ### Projects
 
 - 🐍 [Ui-Py](https://github.com/taichikuji/Ui-Py), a Discord bot <u>rebuilt</u> using Discord.py v2. A direct in-place replacement for Miia-Py!
-- 🖥️ [Youtube Ads 4 Adaway](https://github.com/taichikuji/youtube-ads-4-adaway), automated system that pulls from various sources and compiles them to be compatible with Adaway and other similar applications. <u>Built in Powershell, Bash and Python</u> for compatibility among multiple platforms.
 - 🌐 [DiscordID](https://github.com/taichikuji/discordid), complete dynamic website that allows you to share and let people add your Discord profile as friends. <u>Built using Netlify and Node.js</u>
 - 📋 [Simplemenu](https://github.com/taichikuji/simplemenu), Simplemenu is a project that replaces the default launcher for the multiple single-board devices that support it, including but not limited to, the Powkiddy v90! Written in C + Shell
 - ⚡ [TRMNL-Frank-Energie-Plugin](https://github.com/taichikuji/trmnl-frank-energie-plugin), This is a plugin available for the TRMNL compatible devices. It connects to Frank Energie's API to provide to you the daily Electricity and Gas price!
+- 🚇 [TRMNL-TMB-Plugin](https://github.com/taichikuji/trmnl-tmb-plugin), This is a plugin available for the TRMNL compatible devices. It connects to TMB's API to alert you about any outages or alerts from the Barcelona Metro service!
 - 🗂️ [Stasher](https://github.com/taichikuji/Stasher), Stasher is a Chromium compatible extension that is yet another attempt at managing tabs and tab groups. Stash, Recover, and save on memory while staying focused on your tasks!
 ---
 
