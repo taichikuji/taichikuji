@@ -1,4 +1,4 @@
-# 🐍 Iván Pérez Fernández 🌐
+# 🐈 Iván Pérez Fernández 🌐
 
 I am a Cloud Engineer, Networking specialist and SysAdmin!
 
@@ -52,7 +52,7 @@ I am a Cloud Engineer, Networking specialist and SysAdmin!
 
 ### Projects
 
-- 🐍 [Ui-Py](https://github.com/taichikuji/Ui-Py), a Discord bot <u>rebuilt</u> using Discord.py v2. A direct in-place replacement for Miia-Py!
+- 🐈 [Sakamoto](https://github.com/taichikuji/Sakamoto), a fun, easy to use, deploy and play around Discord Music Bot! It is a direct in-place replacement for Miia-Py (which used Discord.py v1), and direct follow-up of Ui-Py!
 - 🌐 [DiscordID](https://github.com/taichikuji/discordid), complete dynamic website that allows you to share and let people add your Discord profile as friends. <u>Built using Netlify and Node.js</u>
 - 📋 [Simplemenu](https://github.com/taichikuji/simplemenu), Simplemenu is a project that replaces the default launcher for the multiple single-board devices that support it, including but not limited to, the Powkiddy v90! Written in C + Shell
 - ⚡ My TRMNL plugins!, [TRMNL-Frank-Energie-Plugin](https://github.com/taichikuji/trmnl-frank-energie-plugin) | [TRMNL-TMB-Plugin](https://github.com/taichikuji/trmnl-tmb-plugin) | [TRMNL-LaLiga-Plugin](https://github.com/taichikuji/trmnl-laliga-plugin) | [TRMNL-HTTP-Pets-Plugin](https://github.com/taichikuji/trmnl-http-pets-plugin)
