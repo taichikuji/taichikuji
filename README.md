@@ -4,6 +4,19 @@ I am a Cloud Engineer, Networking specialist and SysAdmin!
 
 ---
 
+## You may know me for 💻
+
+### Projects
+
+- 🐈 [Sakamoto](https://github.com/taichikuji/Sakamoto), is, mainly, a music Discord bot. It is easy to set up, easy to use and constantly evolving! Has media support, recently added radio support, and even some administrative tools!
+- 🌐 [DiscordID](https://github.com/taichikuji/discordid), is a dynamic website which allows you to share your Discord - ID - to other people so that they can visit your profile, add you as a friend, or strike a new conversation!
+- 📋 [Simplemenu](https://github.com/taichikuji/simplemenu), is a project born as an alternative launcher for SBCs, such as the Powkiddy v90. It is, as the name implies, simple to use and understand!
+- ⚡ My TRMNL plugins!, [TRMNL-Frank-Energie-Plugin](https://github.com/taichikuji/trmnl-frank-energie-plugin) | [TRMNL-TMB-Plugin](https://github.com/taichikuji/trmnl-tmb-plugin) | [TRMNL-LaLiga-Plugin](https://github.com/taichikuji/trmnl-laliga-plugin) | [TRMNL-HTTP-Pets-Plugin](https://github.com/taichikuji/trmnl-http-pets-plugin)
+- 🗂️ [Stasher](https://github.com/taichikuji/Stasher), is a Chromium extension. It allows you to save tabs using Chrome's tab groups, as well as regular tabs. Allows you to focus on the right thing, and save resources at the same time!
+- 🦝 [Linker](https://github.com/taichikuji/Linker), is also a Chromium extension which is born to fix something which few others tried... Go/Links, but also dynamic? Check it out!
+
+---
+
 ## Languages and tech I am in love with 💻
 
 <dl>
@@ -45,18 +58,6 @@ I am a Cloud Engineer, Networking specialist and SysAdmin!
     </dt>
 </dl>
 
-
----
-
-## I’m most proud of 💻
-
-### Projects
-
-- 🐈 [Sakamoto](https://github.com/taichikuji/Sakamoto), a fun, easy to use, deploy and play around Discord Music Bot! It is a direct in-place replacement for Miia-Py (which used Discord.py v1), and direct follow-up of Ui-Py!
-- 🌐 [DiscordID](https://github.com/taichikuji/discordid), complete dynamic website that allows you to share and let people add your Discord profile as friends. <u>Built using Netlify and Node.js</u>
-- 📋 [Simplemenu](https://github.com/taichikuji/simplemenu), Simplemenu is a project that replaces the default launcher for the multiple single-board devices that support it, including but not limited to, the Powkiddy v90! Written in C + Shell
-- ⚡ My TRMNL plugins!, [TRMNL-Frank-Energie-Plugin](https://github.com/taichikuji/trmnl-frank-energie-plugin) | [TRMNL-TMB-Plugin](https://github.com/taichikuji/trmnl-tmb-plugin) | [TRMNL-LaLiga-Plugin](https://github.com/taichikuji/trmnl-laliga-plugin) | [TRMNL-HTTP-Pets-Plugin](https://github.com/taichikuji/trmnl-http-pets-plugin)
-- 🗂️ [Stasher](https://github.com/taichikuji/Stasher), Stasher is a Chromium compatible extension that is yet another attempt at managing tabs and tab groups. Stash, Recover, and save on memory while staying focused on your tasks!
 ---
 
 <details>
