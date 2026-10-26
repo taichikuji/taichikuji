@@ -11,7 +11,7 @@ I am a Cloud Engineer, Networking specialist and SysAdmin!
 - 🐈 [Sakamoto](https://github.com/taichikuji/Sakamoto), is, mainly, a music Discord bot. It is easy to set up, easy to use and constantly evolving! Has media support, recently added radio support, and even some administrative tools!
 - 🌐 [DiscordID](https://github.com/taichikuji/discordid), is a dynamic website which allows you to share your Discord - ID - to other people so that they can visit your profile, add you as a friend, or strike a new conversation!
 - 📋 [Simplemenu](https://github.com/taichikuji/simplemenu), is a project born as an alternative launcher for SBCs, such as the Powkiddy v90. It is, as the name implies, simple to use and understand!
-- ⚡ My TRMNL plugins!, [TRMNL-Frank-Energie-Plugin](https://github.com/taichikuji/trmnl-frank-energie-plugin) | [TRMNL-TMB-Plugin](https://github.com/taichikuji/trmnl-tmb-plugin) | [TRMNL-LaLiga-Plugin](https://github.com/taichikuji/trmnl-laliga-plugin) | [TRMNL-HTTP-Pets-Plugin](https://github.com/taichikuji/trmnl-http-pets-plugin) | [TRMNL-Xiaomi-Weather-Plugin](https://github.com/taichikuji/trmnl-xiaomi-weather-plugin) | [Trmnl-Tamagotchi-Plugin](https://github.com/taichikuji/trmnl-tamagotchi-plugin) 
+- ⚡ [My TRMNL plugins are on TRMNL.com!](https://trmnl.com/recipes?user_id=28055)
 - 🗂️ [Stasher](https://github.com/taichikuji/Stasher), is a Chromium extension. It allows you to save tabs using Chrome's tab groups, as well as regular tabs. Allows you to focus on the right thing, and save resources at the same time!
 - 🦝 [Linker](https://github.com/taichikuji/Linker), is also a Chromium extension which is born to fix something which few others tried... Go/Links, but also dynamic? Check it out!
 
